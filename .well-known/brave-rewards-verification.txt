@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: purpleturtll.github.io
+Token: 5930e70aa33e7deef74eab90fdad4003aa71b33e7678f53172db3f3ecbe9d6fe
